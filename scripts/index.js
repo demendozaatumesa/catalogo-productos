@@ -6,7 +6,7 @@ function traerDatos() {
     
     const xhttp = new XMLHttpRequest();
 
-    xhttp.open('GET', 'productos.json', true);
+    xhttp.open('GET', '../productos.json', true);
 
     xhttp.send();
 
