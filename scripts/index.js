@@ -6,7 +6,7 @@ function traerDatos() {
     
     const xhttp = new XMLHttpRequest();
 
-    xhttp.open('GET', 'demendozaatumesa.github.io/catalogo-productos/data/productos.json', true);
+    xhttp.open('GET', '../data/productos.json', true);
 
     xhttp.send();
 
