@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar {
+    position: fixed;
+    height: 120px;
+    background: #aa9d7a;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.inverse {
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 10;
+}
+.logo-container {
+    
+    width: 25%;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 5px 10px;
+}
+.logo-container>img{
+   max-width: 100%;
+}
+.elemento-desplegable {
+    list-style: none;
+    margin-right: 15px;
+    padding: 10px;
+}
+.cuerpo {
+    width: 100%;
+    background: url('../img/src/log_2.jpg');
+    margin-top: 120px;
+}
+h3 {
+    width: 100%;
+    text-align: center;
+    margin: 15px 0;
+    border-bottom: 1px solid #4C4637;
+    padding: 8px;
+    color: #C95914;
+    background: #f5e5b8;
+}
+.carta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.carta-producto {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px 0 0 10px;
+    width: 40%;
+    padding: 5px;
+}
+
+.prod-img {
+    height: 160px;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, .15);  
+    backdrop-filter: blur(5px);
+    width: 100%;
+}
+
+.prod-nombre, .prod-descripcion, .precio {
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+
+.prod-nombre {
+    font-size: 17px;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+.prod-descripcion {
+    font-size: 13px;
+    margin-bottom: 2px;
+}
+
+.precio {
+    font-weight: bold;
+    padding: 5px;
+}
+
+@media screen and (min-width: 480px) {
+    .nav-bar {
+        height: 170px;
+    }
+    .logo-container {
+        width: 10%;
+    }
+    .cuerpo {
+        margin-top: 170px
+    }
+}
