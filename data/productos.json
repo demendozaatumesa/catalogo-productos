@@ -234,7 +234,7 @@
     {
         "nombre": "Extra Brut-Método Charmat",
         "descripcion": "750cc",
-        "precio": "960",
+        "precio": "1110",
         "empresa": "Murville",
         "tipo":"Espumantes",
         "imagen":"./img/vinos/murville/brut/extra-brutt.jpeg"
@@ -242,7 +242,7 @@
     {
         "nombre": "Extra Brut-Método Champenoise",
         "descripcion": "750cc",
-        "precio": "1300",
+        "precio": "1500",
         "empresa": "Murville",
         "tipo":"Espumantes",
         "imagen":"./img/vinos/murville/brut/cahmpen-metod.jpeg"
@@ -250,7 +250,7 @@
     {
         "nombre": "R.S. Master Blend-Champenoise",
         "descripcion": "750cc",
-        "precio": "2300",
+        "precio": "2650",
         "empresa": "Murville",
         "tipo":"Espumantes",
         "imagen":"./img/vinos/murville/brut/brutt-nature.jpeg"
