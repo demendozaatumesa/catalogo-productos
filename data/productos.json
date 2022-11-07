@@ -210,7 +210,7 @@
     {
         "nombre": "MALBEC ROBLE",
         "descripcion": "750cc",
-        "precio": "780",
+        "precio": "900",
         "empresa": "Bournett",
         "tipo":"Linea I.G",
         "imagen":"./img/vinos/bournett/linea ig/malbec-roble.jpeg"
@@ -218,7 +218,7 @@
     {
         "nombre": "CORBEAU ROBLE",
         "descripcion": "750cc",
-        "precio": "780",
+        "precio": "900",
         "empresa": "Bournett",
         "tipo":"Linea I.G",
         "imagen":"./img/vinos/bournett/linea ig/corbeau-roble.jpeg"
@@ -226,7 +226,7 @@
     {
         "nombre": "MALBEC ROSÉ",
         "descripcion": "750cc",
-        "precio": "780",
+        "precio": "900",
         "empresa": "Bournett",
         "tipo":"Linea I.G",
         "imagen":"./img/vinos/bournett/linea ig/rose.jpeg"
