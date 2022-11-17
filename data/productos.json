@@ -258,7 +258,7 @@
     {
         "nombre": "Extra Dulce",
         "descripcion": "750cc",
-        "precio": "920",
+        "precio": "1200",
         "empresa": "Murville",
         "tipo":"Espumantes",
         "imagen":"./img/vinos/murville/dulce/murville-dulce.jpeg"
@@ -266,7 +266,7 @@
     {
         "nombre": "Espumoso Dulce",
         "descripcion": "750cc",
-        "precio": "870",
+        "precio": "1100",
         "empresa": "Murville",
         "tipo":"Espumantes",
         "imagen":"./img/vinos/murville/dulce/murville-dulce-blanc.jpeg"
@@ -274,7 +274,7 @@
     {
         "nombre": "Rosado Dulce",
         "descripcion": "750cc",
-        "precio": "870",
+        "precio": "1100",
         "empresa": "Murville",
         "tipo":"Espumantes",
         "imagen":"./img/vinos/murville/dulce/murville-rose.jpeg"
@@ -282,7 +282,7 @@
     {
         "nombre": "Espumoso Dulce tardío",
         "descripcion": "750cc",
-        "precio": "1200",
+        "precio": "1400",
         "empresa": "Murville",
         "tipo":"Espumantes",
         "imagen":"./img/vinos/murville/dulce/sexto-sentido.jpeg"
@@ -658,7 +658,7 @@
     {
         "nombre": "Aceite de oliva EXTRA VIRGEN",
         "descripcion": "Env. Lata 500cm<sup>3</sup>",
-        "precio": "1200",
+        "precio": "1380",
         "empresa": "yancanelo",
         "tipo":"Aceites",
         "imagen":"./img/yancanelo/aceite_oliva_lata.jpg"
@@ -666,7 +666,7 @@
     {
         "nombre": "Acceto Balsámico-Extra añejo",
         "descripcion": "Env. vidrio 250cm<sup>3</sup>",
-        "precio": "670",
+        "precio": "770",
         "empresa": "yancanelo",
         "tipo":"Aceites",
         "imagen":"./img/yancanelo/acceto_extra_añejo.jpg"
@@ -674,7 +674,7 @@
     {
         "nombre": "Acceto Balsámico-Tipo Modena",
         "descripcion": "Env. Vidrio 250cm<sup>3</sup>",
-        "precio": "670",
+        "precio": "770",
         "empresa": "yancanelo",
         "tipo":"Aceites",
         "imagen":"./img/yancanelo/acceto__tipo_modena.jpg"
