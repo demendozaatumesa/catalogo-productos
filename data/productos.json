@@ -578,7 +578,7 @@
     {
         "nombre": "Crema de alcauciles",
         "descripcion": "180gr",
-        "precio": "",
+        "precio": "750",
         "empresa": "sabores",
         "tipo":"Delicatessen",
         "imagen":"./img/sabores/crema-alcaucil.jpg"
@@ -594,7 +594,7 @@
     {
         "nombre": "Zuccihinis azados en ac. oliva c/ tomate al malbec",
         "descripcion": "180gr",
-        "precio": "70",
+        "precio": "750",
         "empresa": "sabores",
         "tipo":"Delicatessen",
         "imagen":"./img/sabores/zuccini_asado.jpg"
