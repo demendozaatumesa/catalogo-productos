@@ -5,7 +5,7 @@ res.addEventListener('afterprint', traerDatos());
 function traerDatos() {
     
     const xhttp = new XMLHttpRequest();
-
+    // ruta para github --> ''
     xhttp.open('GET', '/catalogo-productos/data/productos.json', true);
 
     xhttp.send();
