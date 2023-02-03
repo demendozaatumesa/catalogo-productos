@@ -2,7 +2,7 @@
     {
         "nombre": "CORTE BLANCO",
         "descripcion": "Sauvignon blanc - chenin blanc",
-        "precio": "600",
+        "precio": "700",
         "empresa": "jeanrivier",
         "tipo":"Cortes Especiales",
         "imagen":"./img/vinos/jeanrivier/cortes/corte-blanco.png"
@@ -10,7 +10,7 @@
     {
         "nombre": "CORTE TINTO",
         "descripcion": "malbec - bonarda",
-        "precio": "600",
+        "precio": "700",
         "empresa": "jeanrivier",
         "tipo":"Cortes Especiales",
         "imagen":"./img/vinos/jeanrivier/cortes/corte-tinto.png"
@@ -18,7 +18,7 @@
     {
         "nombre": "TOCAI",
         "descripcion": "100% Tocai 750cc",
-        "precio": "970",
+        "precio": "1160",
         "empresa": "jeanrivier",
         "tipo":"Varietales",
         "imagen":"./img/vinos/jeanrivier/varietal/tocai-varietal.png"
@@ -26,7 +26,7 @@
     {
         "nombre": "SAUVIGNON BLANC",
         "descripcion": "100% Sauvignon blanc 750cc",
-        "precio": "970",
+        "precio": "1160",
         "empresa": "jeanrivier",
         "tipo":"Varietales",
         "imagen":"./img/vinos/jeanrivier/varietal/sauvignon-varietal.png"
@@ -34,7 +34,7 @@
     {
         "nombre": "DULCE NATURAL",
         "descripcion": "Sauvignon blanc 750cc",
-        "precio": "970",
+        "precio": "1160",
         "empresa": "jeanrivier",
         "tipo":"Varietales",
         "imagen":"./img/vinos/jeanrivier/varietal/dulce-varietal.png"
@@ -42,7 +42,7 @@
     {
         "nombre": "MERLOT",
         "descripcion": "100% Merlot 750cc",
-        "precio": "970",
+        "precio": "1160",
         "empresa": "jeanrivier",
         "tipo":"Varietales",
         "imagen":"./img/vinos/jeanrivier/varietal/merlot-mirlo-varietals.png"
@@ -50,7 +50,7 @@
     {
         "nombre": "MALBEC JOVEN",
         "descripcion": "100% Malbec 750cc",
-        "precio": "970",
+        "precio": "1160",
         "empresa": "jeanrivier",
         "tipo":"Varietales",
         "imagen":"./img/vinos/jeanrivier/varietal/malbec-varietal.png"
@@ -58,7 +58,7 @@
     {
         "nombre": "BAG IN BOX - MALBEC 2021",
         "descripcion": "100% Malbec",
-        "precio": "2800",
+        "precio": "3360",
         "empresa": "jeanrivier",
         "tipo":"Varietales",
         "imagen":"./img/vinos/jeanrivier/varietal/baginbox-malbec-varietal.png"
@@ -66,7 +66,7 @@
     {
         "nombre": "JOMO BLANCO",
         "descripcion": "Semillón - Sauvignon Blanc",
-        "precio": "1100",
+        "precio": "1300",
         "empresa": "jeanrivier",
         "tipo":"Especialidades",
         "imagen":"./img/vinos/jeanrivier/especialidades/jomo-blanc.png"
@@ -74,7 +74,7 @@
     {
         "nombre": "JOMO ROSÉ",
         "descripcion": "Bonarda",
-        "precio": "1100",
+        "precio": "1300",
         "empresa": "jeanrivier",
         "tipo":"Especialidades",
         "imagen":"./img/vinos/jeanrivier/especialidades/jomo-rose.png"
@@ -82,7 +82,7 @@
     {
         "nombre": "JOMO TINTO",
         "descripcion": "Cabernet Sauvignon(96%)-Chenin Blanc(4%)",
-        "precio": "1100",
+        "precio": "1300",
         "empresa": "jeanrivier",
         "tipo":"Especialidades",
         "imagen":"./img/vinos/jeanrivier/especialidades/jomo-cabernet.png"
@@ -90,7 +90,7 @@
     {
         "nombre": "MALBEC ROSÉ MANÍA",
         "descripcion": "100% Malbec",
-        "precio": "1100",
+        "precio": "1300",
         "empresa": "jeanrivier",
         "tipo":"Especialidades",
         "imagen":"./img/vinos/jeanrivier/especialidades/rose-nuevo-varietal.png"
@@ -98,7 +98,7 @@
     {
         "nombre": "CABERNET FRANC",
         "descripcion": "100% Cabernet Franc",
-        "precio": "1100",
+        "precio": "1300",
         "empresa": "jeanrivier",
         "tipo":"Especialidades",
         "imagen":"./img/vinos/jeanrivier/especialidades/cabernet-franc-varietal.png"
@@ -106,7 +106,7 @@
     {
         "nombre": "MALBEC",
         "descripcion": "100% Malbec 750cc",
-        "precio": "1500",
+        "precio": "1800",
         "empresa": "jeanrivier",
         "tipo":"Reserva",
         "imagen":"./img/vinos/jeanrivier/reserva/malbec-roble-reserva.png"
@@ -114,7 +114,7 @@
     {
         "nombre": "CABERNET SAUVIGNON",
         "descripcion": "100% Cabernet sauvignon 750cc",
-        "precio": "1500",
+        "precio": "1800",
         "empresa": "jeanrivier",
         "tipo":"Reserva",
         "imagen":"./img/vinos/jeanrivier/reserva/cabernet-roble-reserva.png"
@@ -122,7 +122,7 @@
     {
         "nombre": "CABERNET FRANC",
         "descripcion": "100% Cabernet franc 750cc",
-        "precio": "1500",
+        "precio": "1800",
         "empresa": "jeanrivier",
         "tipo":"Reserva",
         "imagen":"./img/vinos/jeanrivier/reserva/cabfranc-reserva-reserva.png"
@@ -130,7 +130,7 @@
     {
         "nombre": "TOCAI",
         "descripcion": "100% Tocai 750cc",
-        "precio": "1500",
+        "precio": "1800",
         "empresa": "jeanrivier",
         "tipo":"Reserva",
         "imagen":"./img/vinos/jeanrivier/reserva/tocai-roble-reserva.png"
@@ -138,7 +138,7 @@
     {
         "nombre": "MERLOT",
         "descripcion": "100% Merlot 750cc",
-        "precio": "1500",
+        "precio": "1800",
         "empresa": "jeanrivier",
         "tipo":"Reserva",
         "imagen":"./img/vinos/jeanrivier/reserva/merlot-roble-reserva.png"
@@ -146,15 +146,15 @@
     {
         "nombre": "BLEND EDICION LIMITADA",
         "descripcion": "65% Malbec-35% Cabernet sauvignon 1500cc",
-        "precio": "2900",
+        "precio": "3400",
         "empresa": "jeanrivier",
-        "tipo":"Reserva",
+        "tipo":"Alta Gama",
         "imagen":"./img/vinos/jeanrivier/alta gama/blend-reserva-edicion-limitada.png"
     },
     {
         "nombre": "TRIBUTO",
         "descripcion": "47% Malbec - 34% Cabernet Sauvignon - 19% Merlot. 750cc",
-        "precio": "4600",
+        "precio": "5800",
         "empresa": "jeanrivier",
         "tipo":"Alta Gama",
         "imagen":"./img/vinos/jeanrivier/alta gama/tributonuevo-altagama.png"
@@ -162,7 +162,7 @@
     {
         "nombre": "TRIBUTO CHENIN",
         "descripcion": "100% Chenin Blanc. 750cc",
-        "precio": "4600",
+        "precio": "5800",
         "empresa": "jeanrivier",
         "tipo":"Alta Gama",
         "imagen":"./img/vinos/jeanrivier/alta gama/tributo-chenin-altagama.png"
@@ -170,7 +170,7 @@
     {
         "nombre": "COSECHA TARDIA PARTIDA LIMITADA",
         "descripcion": "100% Chenin Blanc. 500cc",
-        "precio": "2000",
+        "precio": "2500",
         "empresa": "jeanrivier",
         "tipo":"Alta Gama",
         "imagen":"./img/vinos/jeanrivier/alta gama/cosecha-tardia-altagama.png"
@@ -178,7 +178,7 @@
     {
         "nombre": "Fangio Legend",
         "descripcion": "Convina 5 varietales en honor a los 5 campeonatos de Juan Manuel Fangio",
-        "precio": "2650",
+        "precio": "2900",
         "empresa": "Bournett",
         "tipo":"Alta Gama",
         "imagen":"./img/vinos/bournett/alta gama/FANGIO-Legend.png"
@@ -186,7 +186,7 @@
     {
         "nombre": "Fangio Bi-Varietal",
         "descripcion": "MALBEC(50%) – CORBEAU(50%)",
-        "precio": "1850",
+        "precio": "2050",
         "empresa": "Bournett",
         "tipo":"Alta Gama",
         "imagen":"./img/vinos/bournett/alta gama/FANGIO-Bivarietal.png"
@@ -194,7 +194,7 @@
     {
         "nombre": "Malbec Numerado",
         "descripcion": "3er Puesto Malbec del mundo. 3er Puesto Malbec de la Argentina. 36° Puesto Ranking mundial de varietales.",
-        "precio": "1380",
+        "precio": "1500",
         "empresa": "Bournett",
         "tipo":"Alta Gama",
         "imagen":"./img/vinos/bournett/alta gama/Malbec-Numerado.png"
@@ -202,7 +202,7 @@
     {
         "nombre": "Prestige Malbec Reserva",
         "descripcion": "750cc",
-        "precio": "1380",
+        "precio": "1500",
         "empresa": "Bournett",
         "tipo":"Alta Gama",
         "imagen":"./img/vinos/bournett/alta gama/malbec-prestige.png"
@@ -210,7 +210,7 @@
     {
         "nombre": "Prestige Pinot Noir",
         "descripcion": "750cc",
-        "precio": "1380",
+        "precio": "1500",
         "empresa": "Bournett",
         "tipo":"Alta Gama",
         "imagen":"./img/vinos/bournett/alta gama/pinot-noir.png"
@@ -218,7 +218,7 @@
     {
         "nombre": "MALBEC ROBLE",
         "descripcion": "750cc",
-        "precio": "900",
+        "precio": "990",
         "empresa": "Bournett",
         "tipo":"Linea I.G",
         "imagen":"./img/vinos/bournett/linea ig/malbec-roble.png"
@@ -226,7 +226,7 @@
     {
         "nombre": "CORBEAU ROBLE",
         "descripcion": "750cc",
-        "precio": "900",
+        "precio": "990",
         "empresa": "Bournett",
         "tipo":"Linea I.G",
         "imagen":"./img/vinos/bournett/linea ig/corbeau-roble.png"
@@ -234,7 +234,7 @@
     {
         "nombre": "MALBEC ROSÉ",
         "descripcion": "750cc",
-        "precio": "900",
+        "precio": "990",
         "empresa": "Bournett",
         "tipo":"Linea I.G",
         "imagen":"./img/vinos/bournett/linea ig/rose.png"
@@ -242,7 +242,7 @@
     {
         "nombre": "Extra Brut-Método Charmat",
         "descripcion": "750cc",
-        "precio": "1110",
+        "precio": "1200",
         "empresa": "Bournett",
         "tipo":"Espumantes",
         "imagen":"./img/vinos/murville/brut/extra-brutt.png"
@@ -250,7 +250,7 @@
     {
         "nombre": "Extra Brut-Método Champenoise",
         "descripcion": "750cc",
-        "precio": "1500",
+        "precio": "1650",
         "empresa": "Bournett",
         "tipo":"Espumantes",
         "imagen":"./img/vinos/murville/brut/cahmpen-metod.png"
@@ -258,7 +258,7 @@
     {
         "nombre": "R.S. Master Blend-Champenoise",
         "descripcion": "750cc",
-        "precio": "2650",
+        "precio": "2900",
         "empresa": "Bournett",
         "tipo":"Espumantes",
         "imagen":"./img/vinos/murville/brut/brutt-nature.png"
