@@ -178,7 +178,7 @@
     {
         "nombre": "Fangio Legend",
         "descripcion": "Convina 5 varietales en honor a los 5 campeonatos de Juan Manuel Fangio",
-        "precio": "2900",
+        "precio": "3335",
         "empresa": "Bournett",
         "tipo":"Alta Gama",
         "imagen":"./img/vinos/bournett/alta gama/FANGIO-Legend.png"
@@ -186,7 +186,7 @@
     {
         "nombre": "Fangio Bi-Varietal",
         "descripcion": "MALBEC(50%) – CORBEAU(50%)",
-        "precio": "2050",
+        "precio": "2360",
         "empresa": "Bournett",
         "tipo":"Alta Gama",
         "imagen":"./img/vinos/bournett/alta gama/FANGIO-Bivarietal.png"
@@ -194,7 +194,7 @@
     {
         "nombre": "Malbec Numerado",
         "descripcion": "3er Puesto Malbec del mundo. 3er Puesto Malbec de la Argentina. 36° Puesto Ranking mundial de varietales.",
-        "precio": "1500",
+        "precio": "1725",
         "empresa": "Bournett",
         "tipo":"Alta Gama",
         "imagen":"./img/vinos/bournett/alta gama/Malbec-Numerado.png"
@@ -202,7 +202,7 @@
     {
         "nombre": "Prestige Malbec Reserva",
         "descripcion": "750cc",
-        "precio": "1500",
+        "precio": "1725",
         "empresa": "Bournett",
         "tipo":"Alta Gama",
         "imagen":"./img/vinos/bournett/alta gama/malbec-prestige.png"
@@ -210,7 +210,7 @@
     {
         "nombre": "Prestige Pinot Noir",
         "descripcion": "750cc",
-        "precio": "1500",
+        "precio": "1725",
         "empresa": "Bournett",
         "tipo":"Alta Gama",
         "imagen":"./img/vinos/bournett/alta gama/pinot-noir.png"
@@ -218,7 +218,7 @@
     {
         "nombre": "MALBEC ROBLE",
         "descripcion": "750cc",
-        "precio": "990",
+        "precio": "1140",
         "empresa": "Bournett",
         "tipo":"Linea I.G",
         "imagen":"./img/vinos/bournett/linea ig/malbec-roble.png"
@@ -226,7 +226,7 @@
     {
         "nombre": "CORBEAU ROBLE",
         "descripcion": "750cc",
-        "precio": "990",
+        "precio": "1140",
         "empresa": "Bournett",
         "tipo":"Linea I.G",
         "imagen":"./img/vinos/bournett/linea ig/corbeau-roble.png"
@@ -234,7 +234,7 @@
     {
         "nombre": "MALBEC ROSÉ",
         "descripcion": "750cc",
-        "precio": "990",
+        "precio": "1140",
         "empresa": "Bournett",
         "tipo":"Linea I.G",
         "imagen":"./img/vinos/bournett/linea ig/rose.png"
@@ -242,7 +242,7 @@
     {
         "nombre": "Extra Brut-Método Charmat",
         "descripcion": "750cc",
-        "precio": "1200",
+        "precio": "1380",
         "empresa": "Bournett",
         "tipo":"Espumantes",
         "imagen":"./img/vinos/murville/brut/extra-brutt.png"
@@ -250,7 +250,7 @@
     {
         "nombre": "Extra Brut-Método Champenoise",
         "descripcion": "750cc",
-        "precio": "1650",
+        "precio": "1900",
         "empresa": "Bournett",
         "tipo":"Espumantes",
         "imagen":"./img/vinos/murville/brut/cahmpen-metod.png"
@@ -258,7 +258,7 @@
     {
         "nombre": "R.S. Master Blend-Champenoise",
         "descripcion": "750cc",
-        "precio": "2900",
+        "precio": "3335",
         "empresa": "Bournett",
         "tipo":"Espumantes",
         "imagen":"./img/vinos/murville/brut/brutt-nature.png"
