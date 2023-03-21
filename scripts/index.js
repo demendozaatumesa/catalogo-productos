@@ -5,7 +5,7 @@ res.addEventListener('afterprint', traerDatos());
 function traerDatos() {
     
     const xhttp = new XMLHttpRequest();
-    // ruta para github --> ''
+    // ruta para github --> ' ../data/productos.json'
     xhttp.open('GET', '/catalogo-productos/data/productos.json', true);
 
     xhttp.send();
@@ -25,19 +25,33 @@ function traerDatos() {
                     identificador = titulo.toLowerCase().split(" ").join("");
                     res.innerHTML += `<h3 id="${identificador}">${titulo}</h3>`
                 }
-                res.innerHTML += `
-                <div class="carta-producto">
-                    <img class="prod-img" src="${item.imagen}">
-                    <div class="text">
-                        <p class="prod-nombre">${item.nombre}</p>
-                        <p class = "prod-descripcion">${item.descripcion}</p>
-                        <p class="precio">$ ${item.precio}</p>
-                    </div> 
-                </div>
-                `
+                res.innerHTML += construirProducto(item);
             }
             
         }
     }
 }
 
+function construirProducto(datos) {
+      if(datos.nuevo) {
+          var cuerpo = `<div class="carta-producto">
+                            <p class="nuevo-cartel">NUEVO!</p>
+                            <img class="prod-img" src="${datos.urlImagen}">
+                                <div class="text">
+                                    <p class="prod-nombre">${datos.nombre}</p>
+                                    <p class = "prod-descripcion">${datos.descripcion}</p>
+                                    <p class="precio">$ ${datos.precio}</p>
+                                </div> 
+                        </div>`
+      } else if(!datos.nuevo){
+          var cuerpo = `<div class="carta-producto">
+                            <img class="prod-img" src="${datos.imagen}">
+                            <div class="text">
+                                <p class="prod-nombre">${datos.nombre}</p>
+                                <p class = "prod-descripcion">${datos.descripcion}</p>
+                                <p class="precio">$ ${datos.precio}</p>
+                            </div> 
+                        </div>`
+      }
+    return cuerpo;    
+}
