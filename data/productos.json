@@ -316,7 +316,7 @@
   {
     "nombre": "Duraznos amarillos en almíbar",
     "descripcion": "660gr",
-    "precio": "960",
+    "precio": "1104",
     "empresa": "sabores",
     "tipo": "Regionales Especiales",
     "imagen": "./img/sabores/durazno_comun.jpg"
@@ -324,7 +324,7 @@
   {
     "nombre": "Peras en almíbar al malbec",
     "descripcion": "660gr",
-    "precio": "960",
+    "precio": "1104",
     "empresa": "sabores",
     "tipo": "Regionales Especiales",
     "imagen": "./img/sabores/pera_malbec.jpg"
@@ -332,7 +332,7 @@
   {
     "nombre": "Duraznos blancos almíbar",
     "descripcion": "660gr",
-    "precio": "960",
+    "precio": "1104",
     "empresa": "sabores",
     "tipo": "Regionales Especiales",
     "imagen": "./img/sabores/durazno_blanco.jpg"
@@ -340,7 +340,7 @@
   {
     "nombre": "Ciruelas en almíbar",
     "descripcion": "660gr",
-    "precio": "960",
+    "precio": "1104",
     "empresa": "sabores",
     "tipo": "Regionales Especiales",
     "imagen": "./img/sabores/ciruelas_almibar.jpg"
@@ -491,7 +491,7 @@
   },
   {
     "nombre": "Mermelada de durazno",
-    "descripcion": "40gr",
+    "descripcion": "110gr",
     "precio": "600",
     "empresa": "sabores",
     "tipo": "Mini Mermeladas",
@@ -500,7 +500,7 @@
   },
   {
     "nombre": "Mermelada de higo",
-    "descripcion": "40gr",
+    "descripcion": "110gr",
     "precio": "600",
     "empresa": "sabores",
     "tipo": "Mini Mermeladas",
@@ -509,7 +509,7 @@
   },
   {
     "nombre": "Mermelada de Manzana",
-    "descripcion": "40gr",
+    "descripcion": "110gr",
     "precio": "600",
     "empresa": "sabores",
     "tipo": "Mini Mermeladas",
@@ -518,7 +518,7 @@
   },
   {
     "nombre": "Mermelada de frutilla",
-    "descripcion": "40gr",
+    "descripcion": "110gr",
     "precio": "600",
     "empresa": "sabores",
     "tipo": "Mini Mermeladas",
@@ -527,7 +527,7 @@
   },
   {
     "nombre": "Mermelada de pera",
-    "descripcion": "40gr",
+    "descripcion": "110gr",
     "precio": "600",
     "empresa": "sabores",
     "tipo": "Mini Mermeladas",
@@ -563,7 +563,7 @@
   {
     "nombre": "Pimientos morrones",
     "descripcion": "160gr",
-    "precio": "800",
+    "precio": "920",
     "empresa": "sabores",
     "tipo": "Regionales Salados",
     "imagen": "./img/sabores/pimientos_morrones_comunes.jpg"
@@ -571,7 +571,7 @@
   {
     "nombre": "Tomates enteros pelados",
     "descripcion": "750gr",
-    "precio": "730",
+    "precio": "840",
     "empresa": "sabores",
     "tipo": "Regionales Salados",
     "imagen": "./img/sabores/tomate_naturales.jpg"
@@ -579,7 +579,7 @@
   {
     "nombre": "Salsa lista",
     "descripcion": "(tomate, cebolla, zanahoria, especias) 250gr",
-    "precio": "320",
+    "precio": "368",
     "empresa": "sabores",
     "tipo": "Regionales Salados",
     "imagen": "./img/sabores/salsa_lista.jpg"
@@ -639,6 +639,15 @@
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "urlImagen": "./img/sabores/cebollines.png",
+    "nuevo": "true"
+  },
+  {
+    "nombre": "Salsa picante malbec/maracuya",
+    "descripcion": "200gr",
+    "precio": "966",
+    "empresa": "sabores",
+    "tipo": "Delicatessen",
+    "urlImagen": "./img/sabores/salsa-picante-malbec.png",
     "nuevo": "true"
   },
   {
@@ -914,8 +923,35 @@
     "imagen": "./img/emolivos/pickles_mixtos.png"
   },
   {
+    "nombre": "Pasta de aceitunas negras",
+    "descripcion": "110gr",
+    "precio": "700",
+    "empresa": "sabores",
+    "tipo": "Mini Delicatessen",
+    "urlImagen": "./img/sabores/pasta-ac-negra-peque.png",
+    "nuevo": "true"
+  },
+  {
+    "nombre": "Tomates al malbec",
+    "descripcion": "110gr",
+    "precio": "700",
+    "empresa": "sabores",
+    "tipo": "Mini Delicatessen",
+    "urlImagen": "./img/tomate-mini-malbec.png",
+    "nuevo": "true"
+  },
+  {
+    "nombre": "Zuccinis asados en aceite de oliva",
+    "descripcion": "110gr",
+    "precio": "700",
+    "empresa": "sabores",
+    "tipo": "Mini Delicatessen",
+    "urlImagen": "./img/sabores/zuccinis-peque.png",
+    "nuevo": "true"
+  },
+  {
     "nombre": "Pate de girgolas",
-    "descripcion": "Pate de hongos 40gr",
+    "descripcion": "110gr",
     "precio": "1610",
     "empresa": "sabores",
     "tipo": "Mini Delicatessen",
@@ -924,7 +960,7 @@
   },
   {
     "nombre": "Crema de ajo",
-    "descripcion": "Aderezo a base de ajo y almendra 40gr",
+    "descripcion": "110gr",
     "precio": "700",
     "empresa": "sabores",
     "tipo": "Mini Delicatessen",
@@ -933,7 +969,7 @@
   },
   {
     "nombre": "Crema de ajo negro",
-    "descripcion": "40gr",
+    "descripcion": "110gr",
     "precio": "700",
     "empresa": "sabores",
     "tipo": "Mini Delicatessen",
