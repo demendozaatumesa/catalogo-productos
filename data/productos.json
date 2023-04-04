@@ -1033,7 +1033,7 @@
   {
     "nombre": "Aceite de oliva VIRGEN EXTRA",
     "descripcion": "Env. Vidrio 250ml",
-    "precio": "770",
+    "precio": "900",
     "empresa": "emolivos",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/emolivos/aceite_oliva_vidrio_250.jpg"
@@ -1041,7 +1041,7 @@
   {
     "nombre": "Aceite de oliva VIRGEN EXTRA",
     "descripcion": "Env. Vidrio 500ml",
-    "precio": "1300",
+    "precio": "1500",
     "empresa": "emolivos",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/emolivos/aceite_oliva_vidrio_500.jpg"
@@ -1049,7 +1049,7 @@
   {
     "nombre": "Aceite de oliva VIRGEN EXTRA",
     "descripcion": "Env. Plástico 500ml",
-    "precio": "1070",
+    "precio": "1300",
     "empresa": "emolivos",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/emolivos/aceite_oliva_500.jpg"
@@ -1057,7 +1057,7 @@
   {
     "nombre": "Aceite de oliva VIRGEN EXTRA",
     "descripcion": "Env. Plástico 1L",
-    "precio": "2160",
+    "precio": "2350",
     "empresa": "emolivos",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/emolivos/aceite_oliva_1l.jpg"
@@ -1081,7 +1081,7 @@
   {
     "nombre": "Acceto balsámico",
     "descripcion": "Env. Vidrio 250cc",
-    "precio": "1265",
+    "precio": "1500",
     "empresa": "sabores",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/sabores/acceto-balsamico-sabores.png"
@@ -1097,7 +1097,7 @@
   {
     "nombre": "Acceto Balsámico-Extra añejo",
     "descripcion": "Env. vidrio 250cm<sup>3</sup>",
-    "precio": "770",
+    "precio": "900",
     "empresa": "yancanelo",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/yancanelo/acceto_extra_añejo.jpg"
@@ -1105,7 +1105,7 @@
   {
     "nombre": "Acceto Balsámico-Tipo Modena",
     "descripcion": "Env. Vidrio 250cm<sup>3</sup>",
-    "precio": "770",
+    "precio": "900",
     "empresa": "yancanelo",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/yancanelo/acceto__tipo_modena.jpg"
