@@ -2,7 +2,7 @@
   {
     "nombre": "CORTE BLANCO",
     "descripcion": "Sauvignon blanc - chenin blanc",
-    "precio": "700",
+    "precio": "800",
     "empresa": "jeanrivier",
     "tipo": "Cortes Especiales",
     "imagen": "./img/vinos/jeanrivier/cortes/corte-blanco.png"
@@ -10,7 +10,7 @@
   {
     "nombre": "CORTE TINTO",
     "descripcion": "malbec - bonarda",
-    "precio": "700",
+    "precio": "800",
     "empresa": "jeanrivier",
     "tipo": "Cortes Especiales",
     "imagen": "./img/vinos/jeanrivier/cortes/corte-tinto.png"
@@ -18,7 +18,7 @@
   {
     "nombre": "TOCAI",
     "descripcion": "100% Tocai 750cc",
-    "precio": "1160",
+    "precio": "1276",
     "empresa": "jeanrivier",
     "tipo": "Varietales",
     "imagen": "./img/vinos/jeanrivier/varietal/tocai-varietal.png"
@@ -26,7 +26,7 @@
   {
     "nombre": "SAUVIGNON BLANC",
     "descripcion": "100% Sauvignon blanc 750cc",
-    "precio": "1160",
+    "precio": "1276",
     "empresa": "jeanrivier",
     "tipo": "Varietales",
     "imagen": "./img/vinos/jeanrivier/varietal/sauvignon-varietal.png"
@@ -34,7 +34,7 @@
   {
     "nombre": "DULCE NATURAL",
     "descripcion": "Sauvignon blanc 750cc",
-    "precio": "1160",
+    "precio": "1276",
     "empresa": "jeanrivier",
     "tipo": "Varietales",
     "imagen": "./img/vinos/jeanrivier/varietal/dulce-varietal.png"
@@ -42,7 +42,7 @@
   {
     "nombre": "MERLOT",
     "descripcion": "100% Merlot 750cc",
-    "precio": "1160",
+    "precio": "1276",
     "empresa": "jeanrivier",
     "tipo": "Varietales",
     "imagen": "./img/vinos/jeanrivier/varietal/merlot-mirlo-varietals.png"
@@ -50,7 +50,7 @@
   {
     "nombre": "MALBEC JOVEN",
     "descripcion": "100% Malbec 750cc",
-    "precio": "1160",
+    "precio": "1276",
     "empresa": "jeanrivier",
     "tipo": "Varietales",
     "imagen": "./img/vinos/jeanrivier/varietal/malbec-varietal.png"
@@ -58,7 +58,7 @@
   {
     "nombre": "BAG IN BOX - MALBEC 2021",
     "descripcion": "100% Malbec",
-    "precio": "3360",
+    "precio": "3696",
     "empresa": "jeanrivier",
     "tipo": "Varietales",
     "imagen": "./img/vinos/jeanrivier/varietal/baginbox-malbec-varietal.png"
@@ -66,7 +66,7 @@
   {
     "nombre": "JOMO BLANCO",
     "descripcion": "Semillón - Sauvignon Blanc",
-    "precio": "1300",
+    "precio": "1404",
     "empresa": "jeanrivier",
     "tipo": "Especialidades",
     "imagen": "./img/vinos/jeanrivier/especialidades/jomo-blanc.png"
@@ -74,7 +74,7 @@
   {
     "nombre": "JOMO ROSÉ",
     "descripcion": "Bonarda",
-    "precio": "1300",
+    "precio": "1404",
     "empresa": "jeanrivier",
     "tipo": "Especialidades",
     "imagen": "./img/vinos/jeanrivier/especialidades/jomo-rose.png"
@@ -82,7 +82,7 @@
   {
     "nombre": "JOMO TINTO",
     "descripcion": "Cabernet Sauvignon(96%)-Chenin Blanc(4%)",
-    "precio": "1300",
+    "precio": "1404",
     "empresa": "jeanrivier",
     "tipo": "Especialidades",
     "imagen": "./img/vinos/jeanrivier/especialidades/jomo-cabernet.png"
@@ -90,7 +90,7 @@
   {
     "nombre": "MALBEC ROSÉ MANÍA",
     "descripcion": "100% Malbec",
-    "precio": "1300",
+    "precio": "1404",
     "empresa": "jeanrivier",
     "tipo": "Especialidades",
     "imagen": "./img/vinos/jeanrivier/especialidades/rose-nuevo-varietal.png"
@@ -98,7 +98,7 @@
   {
     "nombre": "CABERNET FRANC",
     "descripcion": "100% Cabernet Franc",
-    "precio": "1300",
+    "precio": "1404",
     "empresa": "jeanrivier",
     "tipo": "Especialidades",
     "imagen": "./img/vinos/jeanrivier/especialidades/cabernet-franc-varietal.png"
@@ -106,7 +106,7 @@
   {
     "nombre": "MALBEC",
     "descripcion": "100% Malbec 750cc",
-    "precio": "1800",
+    "precio": "1944",
     "empresa": "jeanrivier",
     "tipo": "Reserva",
     "imagen": "./img/vinos/jeanrivier/reserva/malbec-roble-reserva.png"
@@ -114,7 +114,7 @@
   {
     "nombre": "CABERNET SAUVIGNON",
     "descripcion": "100% Cabernet sauvignon 750cc",
-    "precio": "1800",
+    "precio": "1944",
     "empresa": "jeanrivier",
     "tipo": "Reserva",
     "imagen": "./img/vinos/jeanrivier/reserva/cabernet-roble-reserva.png"
@@ -122,7 +122,7 @@
   {
     "nombre": "CABERNET FRANC",
     "descripcion": "100% Cabernet franc 750cc",
-    "precio": "1800",
+    "precio": "1944",
     "empresa": "jeanrivier",
     "tipo": "Reserva",
     "imagen": "./img/vinos/jeanrivier/reserva/cabfranc-reserva-reserva.png"
@@ -130,7 +130,7 @@
   {
     "nombre": "TOCAI",
     "descripcion": "100% Tocai 750cc",
-    "precio": "1800",
+    "precio": "1944",
     "empresa": "jeanrivier",
     "tipo": "Reserva",
     "imagen": "./img/vinos/jeanrivier/reserva/tocai-roble-reserva.png"
@@ -138,7 +138,7 @@
   {
     "nombre": "MERLOT",
     "descripcion": "100% Merlot 750cc",
-    "precio": "1800",
+    "precio": "1944",
     "empresa": "jeanrivier",
     "tipo": "Reserva",
     "imagen": "./img/vinos/jeanrivier/reserva/merlot-roble-reserva.png"
@@ -146,7 +146,7 @@
   {
     "nombre": "BLEND EDICION LIMITADA",
     "descripcion": "65% Malbec-35% Cabernet sauvignon 1500cc",
-    "precio": "3400",
+    "precio": "3672",
     "empresa": "jeanrivier",
     "tipo": "Alta Gama",
     "imagen": "./img/vinos/jeanrivier/alta gama/blend-reserva-edicion-limitada.png"
@@ -154,7 +154,7 @@
   {
     "nombre": "TRIBUTO",
     "descripcion": "47% Malbec - 34% Cabernet Sauvignon - 19% Merlot. 750cc",
-    "precio": "5800",
+    "precio": "6264",
     "empresa": "jeanrivier",
     "tipo": "Alta Gama",
     "imagen": "./img/vinos/jeanrivier/alta gama/tributonuevo-altagama.png"
@@ -162,7 +162,7 @@
   {
     "nombre": "TRIBUTO CHENIN",
     "descripcion": "100% Chenin Blanc. 750cc",
-    "precio": "5800",
+    "precio": "6264",
     "empresa": "jeanrivier",
     "tipo": "Alta Gama",
     "imagen": "./img/vinos/jeanrivier/alta gama/tributo-chenin-altagama.png"
@@ -170,7 +170,7 @@
   {
     "nombre": "COSECHA TARDIA PARTIDA LIMITADA",
     "descripcion": "100% Chenin Blanc. 500cc",
-    "precio": "2500",
+    "precio": "2700",
     "empresa": "jeanrivier",
     "tipo": "Alta Gama",
     "imagen": "./img/vinos/jeanrivier/alta gama/cosecha-tardia-altagama.png"
@@ -178,7 +178,7 @@
   {
     "nombre": "Fangio Legend",
     "descripcion": "Convina 5 varietales en honor a los 5 campeonatos de Juan Manuel Fangio",
-    "precio": "3335",
+    "precio": "3602",
     "empresa": "Bournett",
     "tipo": "Alta Gama",
     "imagen": "./img/vinos/bournett/alta gama/FANGIO-Legend.png"
@@ -186,7 +186,7 @@
   {
     "nombre": "Fangio Bi-Varietal",
     "descripcion": "MALBEC(50%) – CORBEAU(50%)",
-    "precio": "2360",
+    "precio": "2549",
     "empresa": "Bournett",
     "tipo": "Alta Gama",
     "imagen": "./img/vinos/bournett/alta gama/FANGIO-Bivarietal.png"
@@ -194,7 +194,7 @@
   {
     "nombre": "Malbec Numerado",
     "descripcion": "3er Puesto Malbec del mundo. 3er Puesto Malbec de la Argentina. 36° Puesto Ranking mundial de varietales.",
-    "precio": "1725",
+    "precio": "1863",
     "empresa": "Bournett",
     "tipo": "Alta Gama",
     "imagen": "./img/vinos/bournett/alta gama/Malbec-Numerado.png"
@@ -202,7 +202,7 @@
   {
     "nombre": "Prestige Malbec Reserva",
     "descripcion": "750cc",
-    "precio": "1725",
+    "precio": "1863",
     "empresa": "Bournett",
     "tipo": "Alta Gama",
     "imagen": "./img/vinos/bournett/alta gama/malbec-prestige.png"
@@ -210,7 +210,7 @@
   {
     "nombre": "Prestige Pinot Noir",
     "descripcion": "750cc",
-    "precio": "1725",
+    "precio": "1863",
     "empresa": "Bournett",
     "tipo": "Alta Gama",
     "imagen": "./img/vinos/bournett/alta gama/pinot-noir.png"
@@ -218,7 +218,7 @@
   {
     "nombre": "MALBEC ROBLE",
     "descripcion": "750cc",
-    "precio": "1140",
+    "precio": "1254",
     "empresa": "Bournett",
     "tipo": "Linea I.G",
     "imagen": "./img/vinos/bournett/linea ig/malbec-roble.png"
@@ -226,7 +226,7 @@
   {
     "nombre": "CORBEAU ROBLE",
     "descripcion": "750cc",
-    "precio": "1140",
+    "precio": "1254",
     "empresa": "Bournett",
     "tipo": "Linea I.G",
     "imagen": "./img/vinos/bournett/linea ig/corbeau-roble.png"
@@ -234,7 +234,7 @@
   {
     "nombre": "MALBEC ROSÉ",
     "descripcion": "750cc",
-    "precio": "1140",
+    "precio": "1254",
     "empresa": "Bournett",
     "tipo": "Linea I.G",
     "imagen": "./img/vinos/bournett/linea ig/rose.png"
@@ -242,7 +242,7 @@
   {
     "nombre": "Extra Brut-Método Charmat",
     "descripcion": "750cc",
-    "precio": "1380",
+    "precio": "1518",
     "empresa": "Bournett",
     "tipo": "Espumantes",
     "imagen": "./img/vinos/murville/brut/extra-brutt.png"
@@ -250,7 +250,7 @@
   {
     "nombre": "Extra Brut-Método Champenoise",
     "descripcion": "750cc",
-    "precio": "1900",
+    "precio": "2090",
     "empresa": "Bournett",
     "tipo": "Espumantes",
     "imagen": "./img/vinos/murville/brut/cahmpen-metod.png"
@@ -258,7 +258,7 @@
   {
     "nombre": "R.S. Master Blend-Champenoise",
     "descripcion": "750cc",
-    "precio": "3335",
+    "precio": "3669",
     "empresa": "Bournett",
     "tipo": "Espumantes",
     "imagen": "./img/vinos/murville/brut/brutt-nature.png"
@@ -298,7 +298,7 @@
   {
     "nombre": "Pasas al rhum",
     "descripcion": "220gr",
-    "precio": "1067",
+    "precio": "1196",
     "empresa": "sabores",
     "tipo": "Regionales Especiales",
     "urlImagen": "./img/sabores/pasas-rhum.png",
@@ -307,7 +307,7 @@
   {
     "nombre": "Membrillo",
     "descripcion": "Dulce de membrillo 500gr",
-    "precio": "950",
+    "precio": "1064",
     "empresa": "sabores",
     "tipo": "Regionales Especiales",
     "urlImagen": "./img/sabores/membrillo.png",
@@ -316,7 +316,7 @@
   {
     "nombre": "Duraznos amarillos en almíbar",
     "descripcion": "660gr",
-    "precio": "1104",
+    "precio": "1237",
     "empresa": "sabores",
     "tipo": "Regionales Especiales",
     "imagen": "./img/sabores/durazno_comun.jpg"
@@ -324,7 +324,7 @@
   {
     "nombre": "Peras en almíbar al malbec",
     "descripcion": "660gr",
-    "precio": "1104",
+    "precio": "1237",
     "empresa": "sabores",
     "tipo": "Regionales Especiales",
     "imagen": "./img/sabores/pera_malbec.jpg"
@@ -332,7 +332,7 @@
   {
     "nombre": "Duraznos blancos almíbar",
     "descripcion": "660gr",
-    "precio": "1104",
+    "precio": "1237",
     "empresa": "sabores",
     "tipo": "Regionales Especiales",
     "imagen": "./img/sabores/durazno_blanco.jpg"
@@ -340,7 +340,7 @@
   {
     "nombre": "Ciruelas en almíbar",
     "descripcion": "660gr",
-    "precio": "1104",
+    "precio": "1237",
     "empresa": "sabores",
     "tipo": "Regionales Especiales",
     "imagen": "./img/sabores/ciruelas_almibar.jpg"
@@ -348,7 +348,7 @@
   {
     "nombre": "Manjar mendocino",
     "descripcion": "330gr",
-    "precio": "1277",
+    "precio": "1431",
     "empresa": "sabores",
     "tipo": "Regionales Especiales",
     "imagen": "./img/sabores/manjar_mendocino.png"
@@ -356,7 +356,7 @@
   {
     "nombre": "Rumtopf de cerezas",
     "descripcion": "260gr",
-    "precio": "1277",
+    "precio": "1431",
     "empresa": "sabores",
     "tipo": "Regionales Especiales",
     "imagen": "./img/sabores/rumtopf_cereza.jpg"
@@ -364,7 +364,7 @@
   {
     "nombre": "Higos confitados al coñac",
     "descripcion": "350gr",
-    "precio": "1277",
+    "precio": "1431",
     "empresa": "sabores",
     "tipo": "Regionales Especiales",
     "imagen": "./img/sabores/higos-confitados-almibar.jpg"
@@ -372,7 +372,7 @@
   {
     "nombre": "Cerezas conf al maraschino",
     "descripcion": "230gr",
-    "precio": "1236",
+    "precio": "1385",
     "empresa": "sabores",
     "tipo": "Regionales Especiales",
     "imagen": "./img/sabores/cereza-conitada-marachino.png"
@@ -380,7 +380,7 @@
   {
     "nombre": "Cerezas confitadas en almíbar",
     "descripcion": "370gr",
-    "precio": "1288",
+    "precio": "1443",
     "empresa": "sabores",
     "tipo": "Regionales Especiales",
     "imagen": "./img/sabores/cereza-confitada.png"
@@ -388,7 +388,7 @@
   {
     "nombre": "Mermelada de frutos rojos",
     "descripcion": "230gr",
-    "precio": "1116",
+    "precio": "1250",
     "empresa": "sabores",
     "tipo": "Mermeladas al Sol",
     "imagen": "./img/sabores/mermelada_frutos_rojos.jpg"
@@ -396,7 +396,7 @@
   {
     "nombre": "Mermelada de frutillas al sol",
     "descripcion": "230gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Mermeladas al Sol",
     "imagen": "./img/sabores/mermelada_frutilla_sol.jpg"
@@ -404,7 +404,7 @@
   {
     "nombre": "Mermelada inglesa",
     "descripcion": "(naranja, limón, mand, pomelo) 230gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Mermeladas al Sol",
     "imagen": "./img/sabores/mermelada_inglesa.jpg"
@@ -412,7 +412,7 @@
   {
     "nombre": "Jalea de malbec",
     "descripcion": "230gr",
-    "precio": "943",
+    "precio": "1057",
     "empresa": "sabores",
     "tipo": "Mermeladas al Sol",
     "imagen": "./img/sabores/jalea_malbec.jpg"
@@ -420,7 +420,7 @@
   {
     "nombre": "Mermeladas diet",
     "descripcion": "Vienen de ciruela, damasco, durazno, frutilla (apta para diabéticos) 230gr",
-    "precio": "943",
+    "precio": "1057",
     "empresa": "sabores",
     "tipo": "Mermeladas al Sol",
     "imagen": "./img/sabores/mermelada_diet.jpg"
@@ -428,7 +428,7 @@
   {
     "nombre": "Mermelada de damasco al sol",
     "descripcion": "230gr",
-    "precio": "874",
+    "precio": "979",
     "empresa": "sabores",
     "tipo": "Mermeladas al Sol",
     "imagen": "./img/sabores/mermelada_damasco_sol.jpg"
@@ -436,7 +436,7 @@
   {
     "nombre": "Mermelada de maracuya al sol",
     "descripcion": "230gr",
-    "precio": "920",
+    "precio": "1031",
     "empresa": "sabores",
     "tipo": "Mermeladas al Sol",
     "imagen": "./img/sabores/mermelada_maracuya.jpg"
@@ -444,7 +444,7 @@
   {
     "nombre": "Mermelada de frambuesa",
     "descripcion": "230gr",
-    "precio": "1116",
+    "precio": "1250",
     "empresa": "sabores",
     "tipo": "Mermeladas al Sol",
     "imagen": "./img/sabores/mermelada-frambuesa.jpg"
@@ -452,7 +452,7 @@
   {
     "nombre": "Mermelada de tomate",
     "descripcion": "230gr",
-    "precio": "874",
+    "precio": "979",
     "empresa": "sabores",
     "tipo": "Mermeladas al Sol",
     "imagen": "./img/sabores/mermelada-tomate.jpg"
@@ -460,7 +460,7 @@
   {
     "nombre": "Mermelada de higo",
     "descripcion": "230gr",
-    "precio": "932",
+    "precio": "1044",
     "empresa": "sabores",
     "tipo": "Mermeladas al Sol",
     "imagen": "./img/sabores/mermelafa-higo.jpg"
@@ -468,7 +468,7 @@
   {
     "nombre": "Mermelada de manzana",
     "descripcion": "230gr",
-    "precio": "874",
+    "precio": "979",
     "empresa": "sabores",
     "tipo": "Mermeladas al Sol",
     "imagen": "./img/sabores/mermelada-manzana.png"
@@ -476,7 +476,7 @@
   {
     "nombre": "Mermelada de pera",
     "descripcion": "230gr",
-    "precio": "874",
+    "precio": "979",
     "empresa": "sabores",
     "tipo": "Mermeladas al Sol",
     "imagen": "./img/sabores/mermelada-pera.png"
@@ -484,7 +484,7 @@
   {
     "nombre": "Mermelada de durazno",
     "descripcion": "230gr",
-    "precio": "874",
+    "precio": "979",
     "empresa": "sabores",
     "tipo": "Mermeladas al Sol",
     "imagen": "./img/sabores/mermelada-durazno.png"
@@ -492,7 +492,7 @@
   {
     "nombre": "Mermelada de durazno",
     "descripcion": "110gr",
-    "precio": "600",
+    "precio": "672",
     "empresa": "sabores",
     "tipo": "Mini Mermeladas",
     "urlImagen": "./img/sabores/mermelada-durazno-peque.png",
@@ -501,7 +501,7 @@
   {
     "nombre": "Mermelada de higo",
     "descripcion": "110gr",
-    "precio": "600",
+    "precio": "672",
     "empresa": "sabores",
     "tipo": "Mini Mermeladas",
     "urlImagen": "./img/sabores/mermelada-higopeque.png",
@@ -510,7 +510,7 @@
   {
     "nombre": "Mermelada de Manzana",
     "descripcion": "110gr",
-    "precio": "600",
+    "precio": "672",
     "empresa": "sabores",
     "tipo": "Mini Mermeladas",
     "urlImagen": "./img/sabores/mermelada-manzana-peque.png",
@@ -519,7 +519,7 @@
   {
     "nombre": "Mermelada de frutilla",
     "descripcion": "110gr",
-    "precio": "600",
+    "precio": "672",
     "empresa": "sabores",
     "tipo": "Mini Mermeladas",
     "urlImagen": "./img/sabores/mermelada-peque-frutilla.png",
@@ -528,7 +528,7 @@
   {
     "nombre": "Mermelada de pera",
     "descripcion": "110gr",
-    "precio": "600",
+    "precio": "672",
     "empresa": "sabores",
     "tipo": "Mini Mermeladas",
     "urlImagen": "./img/sabores/mermelada-pera-peque.png",
@@ -537,7 +537,7 @@
   {
     "nombre": "Mix de aceitunas en salmuera",
     "descripcion": "Ac. verdes y negras 200g",
-    "precio": "903",
+    "precio": "1012",
     "empresa": "sabores",
     "tipo": "Regionales Salados",
     "urlImagen": "./img/sabores/aceitunas-neg-ver-salmuera.png",
@@ -546,7 +546,7 @@
   {
     "nombre": "Ajíes dulces",
     "descripcion": "360gr",
-    "precio": "903",
+    "precio": "1012",
     "empresa": "sabores",
     "tipo": "Regionales Salados",
     "urlImagen": "./img/sabores/ajies-dulces.png",
@@ -555,7 +555,7 @@
   {
     "nombre": "Aceitunas verdes rellenas",
     "descripcion": "(Almendra, palmitos, tomate seco, salame, anana, queso) 190gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Regionales Salados",
     "imagen": "./img/sabores/aceituna_rellena_queso.jpg"
@@ -563,7 +563,7 @@
   {
     "nombre": "Pimientos morrones",
     "descripcion": "160gr",
-    "precio": "920",
+    "precio": "1031",
     "empresa": "sabores",
     "tipo": "Regionales Salados",
     "imagen": "./img/sabores/pimientos_morrones_comunes.jpg"
@@ -571,7 +571,7 @@
   {
     "nombre": "Tomates enteros pelados",
     "descripcion": "750gr",
-    "precio": "840",
+    "precio": "941",
     "empresa": "sabores",
     "tipo": "Regionales Salados",
     "imagen": "./img/sabores/tomate_naturales.jpg"
@@ -579,7 +579,7 @@
   {
     "nombre": "Salsa lista",
     "descripcion": "(tomate, cebolla, zanahoria, especias) 250gr",
-    "precio": "368",
+    "precio": "413",
     "empresa": "sabores",
     "tipo": "Regionales Salados",
     "imagen": "./img/sabores/salsa_lista.jpg"
@@ -587,7 +587,7 @@
   {
     "nombre": "Vinagre de frambuesa",
     "descripcion": "250cc",
-    "precio": "1035",
+    "precio": "1160",
     "empresa": "sabores",
     "tipo": "Regionales Salados",
     "imagen": "./img/sabores/vinagre_frambuesa.jpg"
@@ -595,7 +595,7 @@
   {
     "nombre": "Aceitunas negras griegas preparadas",
     "descripcion": "250gr",
-    "precio": "1185",
+    "precio": "1328",
     "empresa": "sabores",
     "tipo": "Regionales Salados",
     "imagen": "./img/sabores/aceitunas_negras_griegas.png"
@@ -603,7 +603,7 @@
   {
     "nombre": "Corazón de alcaucil",
     "descripcion": "330gr",
-    "precio": "1242",
+    "precio": "1392",
     "empresa": "sabores",
     "tipo": "Regionales Salados",
     "imagen": "./img/sabores/corazon_alcaucil.jpg"
@@ -611,7 +611,7 @@
   {
     "nombre": "Tomate triturado",
     "descripcion": "1kg",
-    "precio": "541",
+    "precio": "606",
     "empresa": "sabores",
     "tipo": "Regionales Salados",
     "imagen": "./img/sabores/tomate_triturado.jpg"
@@ -619,7 +619,7 @@
   {
     "nombre": "Pepinitos en vinagre",
     "descripcion": "230gr",
-    "precio": "1035",
+    "precio": "1160",
     "empresa": "sabores",
     "tipo": "Regionales Salados",
     "imagen": "./img/sabores/pepinitos-vinagre.jpg"
@@ -627,7 +627,7 @@
   {
     "nombre": "Berenjenas en escabeche",
     "descripcion": "350gr",
-    "precio": "1035",
+    "precio": "1160",
     "empresa": "sabores",
     "tipo": "Regionales Salados",
     "imagen": "./img/sabores/berenjenas-escabeche.png"
@@ -635,7 +635,7 @@
   {
     "nombre": "Cebollitas en aceto",
     "descripcion": "200gr",
-    "precio": "1009",
+    "precio": "1131",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "urlImagen": "./img/sabores/cebollines.png",
@@ -644,7 +644,7 @@
   {
     "nombre": "Salsa picante malbec/maracuya",
     "descripcion": "200gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "urlImagen": "./img/sabores/salsa-picante-malbec.png",
@@ -653,7 +653,7 @@
   {
     "nombre": "Pasta de aceitunas verdes con pistacho",
     "descripcion": "180gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/pasta_aceituna_verde_pistacho.jpg"
@@ -661,7 +661,7 @@
   {
     "nombre": "Cubiletes de ajo en salmuera",
     "descripcion": "(tallos verdes de ajo)180gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/cubilete_ajo.jpg"
@@ -669,7 +669,7 @@
   {
     "nombre": "Crema de ajo con almendras",
     "descripcion": "180gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/crema-ajos-almendra.jpg"
@@ -677,7 +677,7 @@
   {
     "nombre": "Crema de alcauciles",
     "descripcion": "180gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/crema-alcaucil.jpg"
@@ -685,7 +685,7 @@
   {
     "nombre": "Jalea picante malbec/membrillo",
     "descripcion": "200gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/jalea_picante_malbec.jpg"
@@ -693,7 +693,7 @@
   {
     "nombre": "Zuccihinis azados en ac. oliva c/ tomate al malbec",
     "descripcion": "180gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/zuccini_asado.jpg"
@@ -701,7 +701,7 @@
   {
     "nombre": "Chutney de pimiento",
     "descripcion": "200gr",
-    "precio": "1001",
+    "precio": "1122",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/chutney-pimiento.jpg"
@@ -709,7 +709,7 @@
   {
     "nombre": "Chutney de maracuyá",
     "descripcion": "200gr",
-    "precio": "1001",
+    "precio": "1122",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/chutney-maracuya.png"
@@ -717,7 +717,7 @@
   {
     "nombre": "Chutney de frutas",
     "descripcion": "200gr",
-    "precio": "1001",
+    "precio": "1122",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/chutney-frutas.png"
@@ -725,7 +725,7 @@
   {
     "nombre": "Pasta de tomate seco al malbec",
     "descripcion": "180gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/pasta_tomate_seco_malbec.jpg"
@@ -733,7 +733,7 @@
   {
     "nombre": "Aceitunas verdes confitadas c/almendra",
     "descripcion": "240gr",
-    "precio": "1093",
+    "precio": "1225",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/aceitunas_confitadas_almendra.jpg"
@@ -741,7 +741,7 @@
   {
     "nombre": "Ajos confitados",
     "descripcion": "250gr",
-    "precio": "1093",
+    "precio": "1225",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/ajos_confitados.jpg"
@@ -749,7 +749,7 @@
   {
     "nombre": "Zanahorias confitadas",
     "descripcion": "250gr",
-    "precio": "1093",
+    "precio": "1225",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/zanahoria-confitada.png"
@@ -757,7 +757,7 @@
   {
     "nombre": "Tomatitos cherry confitados",
     "descripcion": "250gr",
-    "precio": "1093",
+    "precio": "1225",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/cherry-confitado.png"
@@ -765,7 +765,7 @@
   {
     "nombre": "Gírgolas en aceite de oliva",
     "descripcion": "(hongos)180gr",
-    "precio": "2070",
+    "precio": "2319",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/girgola-oliva.png"
@@ -773,7 +773,7 @@
   {
     "nombre": "Berenjenas asadas al tomillo en oliva",
     "descripcion": "180gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/berenjenas_asadas.jpg"
@@ -781,7 +781,7 @@
   {
     "nombre": "Pasta de aceitunas negras con Roquefort",
     "descripcion": "180gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/pasta-aceitunas-negras-queso-azul.jpg"
@@ -789,7 +789,7 @@
   {
     "nombre": "Pasta de berenjenas",
     "descripcion": "180gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/pasta-berenjenas.png"
@@ -797,7 +797,7 @@
   {
     "nombre": "Tapenade",
     "descripcion": "(Pasta de aceitunas negras con anchoas)180gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/tapenade.jpg"
@@ -805,7 +805,7 @@
   {
     "nombre": "Hummus",
     "descripcion": "(Pasta a base de garbanzo)180gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/hummus.png"
@@ -813,7 +813,7 @@
   {
     "nombre": "Merkén",
     "descripcion": "60gr",
-    "precio": "1288",
+    "precio": "1443",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/merken.png"
@@ -821,7 +821,7 @@
   {
     "nombre": "Humo liquido",
     "descripcion": "40cc",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/humo_liquido.jpg"
@@ -829,7 +829,7 @@
   {
     "nombre": "Quesitos saborizados",
     "descripcion": "180gr",
-    "precio": "1001",
+    "precio": "1122",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/queso_saborizado_chico.jpg"
@@ -837,7 +837,7 @@
   {
     "nombre": "Salsa tipo tabasco",
     "descripcion": "(Salsa de ají picante)250gr",
-    "precio": "1001",
+    "precio": "1122",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/salsa_tabasco.png"
@@ -845,7 +845,7 @@
   {
     "nombre": "Salsa barbacoa",
     "descripcion": "250gr",
-    "precio": "1001",
+    "precio": "1122",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/barbacoa.png"
@@ -853,7 +853,7 @@
   {
     "nombre": "Tomates secos al malbec",
     "descripcion": "En aceite de oliva 250gr",
-    "precio": "966",
+    "precio": "1082",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/tomate-seco-malbec.png"
@@ -861,7 +861,7 @@
   {
     "nombre": "Mostaza en granos",
     "descripcion": "180gr",
-    "precio": "989",
+    "precio": "1108",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/mostaza-en-granos.jpg"
@@ -869,7 +869,7 @@
   {
     "nombre": "Jamon y queso en aceite de oliva",
     "descripcion": "",
-    "precio": "1806",
+    "precio": "2023",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/jyq-oliva.png"
@@ -877,7 +877,7 @@
   {
     "nombre": "Chimichurri",
     "descripcion": "250gr",
-    "precio": "978",
+    "precio": "1096",
     "empresa": "sabores",
     "tipo": "Delicatessen",
     "imagen": "./img/sabores/chimi.png"
@@ -885,7 +885,7 @@
   {
     "nombre": "Aceitunas verdes en salmuera",
     "descripcion": "250gr",
-    "precio": "370",
+    "precio": "426",
     "empresa": "emolivos",
     "tipo": "Delicatessen",
     "imagen": "./img/emolivos/aceituna_frasco_chico.png"
@@ -893,7 +893,7 @@
   {
     "nombre": "Aceitunas verdes en salmuera",
     "descripcion": "(vienen de aceitunas negras o verdes) 1kg",
-    "precio": "1390",
+    "precio": "1599",
     "empresa": "emolivos",
     "tipo": "Delicatessen",
     "imagen": "./img/emolivos/aceitunas_frasco_gigante.jpg"
@@ -901,7 +901,7 @@
   {
     "nombre": "Ajíes picantes peruanos en vinagre",
     "descripcion": "200gr",
-    "precio": "330",
+    "precio": "380",
     "empresa": "emolivos",
     "tipo": "Delicatessen",
     "imagen": "./img/emolivos/ajies_peruanos.png"
@@ -909,7 +909,7 @@
   {
     "nombre": "Ajíes dulces en vinagre",
     "descripcion": "360gr",
-    "precio": "420",
+    "precio": "483",
     "empresa": "emolivos",
     "tipo": "Delicatessen",
     "imagen": "./img/emolivos/ajies_vinagre.jpg"
@@ -917,7 +917,7 @@
   {
     "nombre": "Pickles mixtos en vinagre",
     "descripcion": "400gr",
-    "precio": "430",
+    "precio": "495",
     "empresa": "emolivos",
     "tipo": "Delicatessen",
     "imagen": "./img/emolivos/pickles_mixtos.png"
@@ -925,7 +925,7 @@
   {
     "nombre": "Pasta de aceitunas negras",
     "descripcion": "110gr",
-    "precio": "700",
+    "precio": "784",
     "empresa": "sabores",
     "tipo": "Mini Delicatessen",
     "urlImagen": "./img/sabores/pasta-ac-negra-peque.png",
@@ -934,7 +934,7 @@
   {
     "nombre": "Tomates al malbec",
     "descripcion": "110gr",
-    "precio": "700",
+    "precio": "784",
     "empresa": "sabores",
     "tipo": "Mini Delicatessen",
     "urlImagen": "./img/tomate-mini-malbec.png",
@@ -943,7 +943,7 @@
   {
     "nombre": "Zuccinis asados en aceite de oliva",
     "descripcion": "110gr",
-    "precio": "700",
+    "precio": "784",
     "empresa": "sabores",
     "tipo": "Mini Delicatessen",
     "urlImagen": "./img/sabores/zuccinis-peque.png",
@@ -952,7 +952,7 @@
   {
     "nombre": "Pate de girgolas",
     "descripcion": "110gr",
-    "precio": "1610",
+    "precio": "1804",
     "empresa": "sabores",
     "tipo": "Mini Delicatessen",
     "urlImagen": "./img/sabores/pate-girgolas.png",
@@ -961,7 +961,7 @@
   {
     "nombre": "Crema de ajo",
     "descripcion": "110gr",
-    "precio": "700",
+    "precio": "784",
     "empresa": "sabores",
     "tipo": "Mini Delicatessen",
     "urlImagen": "./img/sabores/crema-ajoalmendra-peque.png",
@@ -970,7 +970,7 @@
   {
     "nombre": "Crema de ajo negro",
     "descripcion": "110gr",
-    "precio": "700",
+    "precio": "784",
     "empresa": "sabores",
     "tipo": "Mini Delicatessen",
     "urlImagen": "./img/sabores/crema-ajos-negro.png",
@@ -979,7 +979,7 @@
   {
     "nombre": "Mix de hierbas",
     "descripcion": "200gr",
-    "precio": "667",
+    "precio": "748",
     "empresa": "sabores",
     "tipo": "Condimentos Especiales",
     "urlImagen": "./img/sabores/mix-hierbas.png",
@@ -988,7 +988,7 @@
   {
     "nombre": "Mix de pimientas",
     "descripcion": "200gr",
-    "precio": "920",
+    "precio": "1031",
     "empresa": "sabores",
     "tipo": "Condimentos Especiales",
     "urlImagen": "./img/sabores/mix-pimientas.png",
@@ -997,7 +997,7 @@
   {
     "nombre": "Mostaza en granos",
     "descripcion": "200gr",
-    "precio": "920",
+    "precio": "1031",
     "empresa": "sabores",
     "tipo": "Condimentos Especiales",
     "urlImagen": "./img/sabores/mostaza-grano.png",
@@ -1006,7 +1006,7 @@
   {
     "nombre": "Pimienta de Jamaica",
     "descripcion": "200gr",
-    "precio": "920",
+    "precio": "1031",
     "empresa": "sabores",
     "tipo": "Condimentos Especiales",
     "urlImagen": "./img/sabores/pimienta-jamaica.png",
@@ -1015,7 +1015,7 @@
   {
     "nombre": "Sales de cerveza",
     "descripcion": "Sales saborizadas con cerveza",
-    "precio": "920",
+    "precio": "1031",
     "empresa": "sabores",
     "tipo": "Condimentos Especiales",
     "urlImagen": "./img/sabores/sales-cerveza.png",
@@ -1024,7 +1024,7 @@
   {
     "nombre": "Sales de vino",
     "descripcion": "Sales saborizadas con vino",
-    "precio": "920",
+    "precio": "1031",
     "empresa": "sabores",
     "tipo": "Condimentos Especiales",
     "urlImagen": "./img/sabores/sales-vino.png",
@@ -1033,7 +1033,7 @@
   {
     "nombre": "Aceite de oliva VIRGEN EXTRA",
     "descripcion": "Env. Vidrio 250ml",
-    "precio": "900",
+    "precio": "1035",
     "empresa": "emolivos",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/emolivos/aceite_oliva_vidrio_250.jpg"
@@ -1041,7 +1041,7 @@
   {
     "nombre": "Aceite de oliva VIRGEN EXTRA",
     "descripcion": "Env. Vidrio 500ml",
-    "precio": "1500",
+    "precio": "1725",
     "empresa": "emolivos",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/emolivos/aceite_oliva_vidrio_500.jpg"
@@ -1049,7 +1049,7 @@
   {
     "nombre": "Aceite de oliva VIRGEN EXTRA",
     "descripcion": "Env. Plástico 500ml",
-    "precio": "1300",
+    "precio": "1495",
     "empresa": "emolivos",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/emolivos/aceite_oliva_500.jpg"
@@ -1057,7 +1057,7 @@
   {
     "nombre": "Aceite de oliva VIRGEN EXTRA",
     "descripcion": "Env. Plástico 1L",
-    "precio": "2350",
+    "precio": "2703",
     "empresa": "emolivos",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/emolivos/aceite_oliva_1l.jpg"
@@ -1065,7 +1065,7 @@
   {
     "nombre": "Aceite de oliva saborizado",
     "descripcion": "Env. Vidrio 250cc",
-    "precio": "1869",
+    "precio": "2094",
     "empresa": "sabores",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/sabores/aceite_oliva_saborizado.jpg"
@@ -1073,7 +1073,7 @@
   {
     "nombre": "Aceite de pepitas de uva",
     "descripcion": "Env. Vidrio 250cc",
-    "precio": "1679",
+    "precio": "1881",
     "empresa": "sabores",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/sabores/aceite-uva.png"
@@ -1081,7 +1081,7 @@
   {
     "nombre": "Acceto balsámico",
     "descripcion": "Env. Vidrio 250cc",
-    "precio": "1500",
+    "precio": "1680",
     "empresa": "sabores",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/sabores/acceto-balsamico-sabores.png"
