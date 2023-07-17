@@ -2,7 +2,7 @@
   {
     "nombre": "CORTE BLANCO",
     "descripcion": "Sauvignon blanc - chenin blanc",
-    "precio": "880",
+    "precio": "968",
     "empresa": "jeanrivier",
     "tipo": "Cortes Especiales",
     "imagen": "./img/vinos/jeanrivier/cortes/corte-blanco.png"
@@ -10,7 +10,7 @@
   {
     "nombre": "CORTE TINTO",
     "descripcion": "malbec - bonarda",
-    "precio": "880",
+    "precio": "968",
     "empresa": "jeanrivier",
     "tipo": "Cortes Especiales",
     "imagen": "./img/vinos/jeanrivier/cortes/corte-tinto.png"
@@ -18,7 +18,7 @@
   {
     "nombre": "TOCAI",
     "descripcion": "100% Tocai 750cc",
-    "precio": "1450",
+    "precio": "1595",
     "empresa": "jeanrivier",
     "tipo": "Varietales",
     "imagen": "./img/vinos/jeanrivier/varietal/tocai-varietal.png"
@@ -26,7 +26,7 @@
   {
     "nombre": "SAUVIGNON BLANC",
     "descripcion": "100% Sauvignon blanc 750cc",
-    "precio": "1450",
+    "precio": "1595",
     "empresa": "jeanrivier",
     "tipo": "Varietales",
     "imagen": "./img/vinos/jeanrivier/varietal/sauvignon-varietal.png"
@@ -34,7 +34,7 @@
   {
     "nombre": "DULCE NATURAL",
     "descripcion": "Sauvignon blanc 750cc",
-    "precio": "1450",
+    "precio": "1595",
     "empresa": "jeanrivier",
     "tipo": "Varietales",
     "imagen": "./img/vinos/jeanrivier/varietal/dulce-varietal.png"
@@ -42,7 +42,7 @@
   {
     "nombre": "MERLOT",
     "descripcion": "100% Merlot 750cc",
-    "precio": "1450",
+    "precio": "1595",
     "empresa": "jeanrivier",
     "tipo": "Varietales",
     "imagen": "./img/vinos/jeanrivier/varietal/merlot-mirlo-varietals.png"
@@ -50,7 +50,7 @@
   {
     "nombre": "MALBEC JOVEN",
     "descripcion": "100% Malbec 750cc",
-    "precio": "1450",
+    "precio": "1595",
     "empresa": "jeanrivier",
     "tipo": "Varietales",
     "imagen": "./img/vinos/jeanrivier/varietal/malbec-varietal.png"
@@ -58,7 +58,7 @@
   {
     "nombre": "BAG IN BOX - MALBEC 2021",
     "descripcion": "100% Malbec",
-    "precio": "4300",
+    "precio": "4730",
     "empresa": "jeanrivier",
     "tipo": "Varietales",
     "imagen": "./img/vinos/jeanrivier/varietal/baginbox-malbec-varietal.png"
@@ -66,7 +66,7 @@
   {
     "nombre": "JOMO BLANCO",
     "descripcion": "Semillón - Sauvignon Blanc",
-    "precio": "1750",
+    "precio": "1925",
     "empresa": "jeanrivier",
     "tipo": "Especialidades",
     "imagen": "./img/vinos/jeanrivier/especialidades/jomo-blanc.png"
@@ -74,7 +74,7 @@
   {
     "nombre": "JOMO ROSÉ",
     "descripcion": "Bonarda",
-    "precio": "1750",
+    "precio": "1925",
     "empresa": "jeanrivier",
     "tipo": "Especialidades",
     "imagen": "./img/vinos/jeanrivier/especialidades/jomo-rose.png"
@@ -82,7 +82,7 @@
   {
     "nombre": "JOMO TINTO",
     "descripcion": "Cabernet Sauvignon(96%)-Chenin Blanc(4%)",
-    "precio": "1750",
+    "precio": "1925",
     "empresa": "jeanrivier",
     "tipo": "Especialidades",
     "imagen": "./img/vinos/jeanrivier/especialidades/jomo-cabernet.png"
@@ -90,7 +90,7 @@
   {
     "nombre": "MALBEC ROSÉ MANÍA",
     "descripcion": "100% Malbec",
-    "precio": "1750",
+    "precio": "1925",
     "empresa": "jeanrivier",
     "tipo": "Especialidades",
     "imagen": "./img/vinos/jeanrivier/especialidades/rose-nuevo-varietal.png"
@@ -98,7 +98,7 @@
   {
     "nombre": "CABERNET FRANC",
     "descripcion": "100% Cabernet Franc",
-    "precio": "1750",
+    "precio": "1925",
     "empresa": "jeanrivier",
     "tipo": "Especialidades",
     "imagen": "./img/vinos/jeanrivier/especialidades/cabernet-franc-varietal.png"
@@ -106,7 +106,7 @@
   {
     "nombre": "MALBEC",
     "descripcion": "100% Malbec 750cc",
-    "precio": "2400",
+    "precio": "2640",
     "empresa": "jeanrivier",
     "tipo": "Reserva",
     "imagen": "./img/vinos/jeanrivier/reserva/malbec-roble-reserva.png"
@@ -114,7 +114,7 @@
   {
     "nombre": "CABERNET SAUVIGNON",
     "descripcion": "100% Cabernet sauvignon 750cc",
-    "precio": "2400",
+    "precio": "2640",
     "empresa": "jeanrivier",
     "tipo": "Reserva",
     "imagen": "./img/vinos/jeanrivier/reserva/cabernet-roble-reserva.png"
@@ -122,7 +122,7 @@
   {
     "nombre": "CABERNET FRANC",
     "descripcion": "100% Cabernet franc 750cc",
-    "precio": "2400",
+    "precio": "2640",
     "empresa": "jeanrivier",
     "tipo": "Reserva",
     "imagen": "./img/vinos/jeanrivier/reserva/cabfranc-reserva-reserva.png"
@@ -130,7 +130,7 @@
   {
     "nombre": "TOCAI",
     "descripcion": "100% Tocai 750cc",
-    "precio": "2700",
+    "precio": "2970",
     "empresa": "jeanrivier",
     "tipo": "Reserva",
     "imagen": "./img/vinos/jeanrivier/reserva/tocai-roble-reserva.png"
@@ -138,7 +138,7 @@
   {
     "nombre": "MERLOT",
     "descripcion": "100% Merlot 750cc",
-    "precio": "2400",
+    "precio": "2640",
     "empresa": "jeanrivier",
     "tipo": "Reserva",
     "imagen": "./img/vinos/jeanrivier/reserva/merlot-roble-reserva.png"
@@ -146,7 +146,7 @@
   {
     "nombre": "BLEND EDICION LIMITADA",
     "descripcion": "65% Malbec-35% Cabernet sauvignon 1500cc",
-    "precio": "4800",
+    "precio": "5280",
     "empresa": "jeanrivier",
     "tipo": "Alta Gama",
     "imagen": "./img/vinos/jeanrivier/alta gama/blend-reserva-edicion-limitada.png"
@@ -154,7 +154,7 @@
   {
     "nombre": "TRIBUTO",
     "descripcion": "47% Malbec - 34% Cabernet Sauvignon - 19% Merlot. 750cc",
-    "precio": "7500",
+    "precio": "8250",
     "empresa": "jeanrivier",
     "tipo": "Alta Gama",
     "imagen": "./img/vinos/jeanrivier/alta gama/tributonuevo-altagama.png"
@@ -162,7 +162,7 @@
   {
     "nombre": "TRIBUTO CHENIN",
     "descripcion": "100% Chenin Blanc. 750cc",
-    "precio": "7500",
+    "precio": "8250",
     "empresa": "jeanrivier",
     "tipo": "Alta Gama",
     "imagen": "./img/vinos/jeanrivier/alta gama/tributo-chenin-altagama.png"
@@ -170,7 +170,7 @@
   {
     "nombre": "COSECHA TARDIA PARTIDA LIMITADA",
     "descripcion": "100% Chenin Blanc. 500cc",
-    "precio": "3800",
+    "precio": "4180",
     "empresa": "jeanrivier",
     "tipo": "Alta Gama",
     "imagen": "./img/vinos/jeanrivier/alta gama/cosecha-tardia-altagama.png"
@@ -885,7 +885,7 @@
   {
     "nombre": "Aceitunas verdes en salmuera",
     "descripcion": "250gr",
-    "precio": "1000",
+    "precio": "1200",
     "empresa": "emolivos",
     "tipo": "Delicatessen",
     "imagen": "./img/emolivos/aceituna_frasco_chico.png"
@@ -893,7 +893,7 @@
   {
     "nombre": "Aceitunas verdes en salmuera",
     "descripcion": "(vienen de aceitunas negras o verdes) 1kg",
-    "precio": "1600",
+    "precio": "1920",
     "empresa": "emolivos",
     "tipo": "Delicatessen",
     "imagen": "./img/emolivos/aceitunas_frasco_gigante.jpg"
@@ -901,7 +901,7 @@
   {
     "nombre": "Ajíes picantes peruanos en vinagre",
     "descripcion": "200gr",
-    "precio": "1200",
+    "precio": "1440",
     "empresa": "emolivos",
     "tipo": "Delicatessen",
     "imagen": "./img/emolivos/ajies_peruanos.png"
@@ -909,7 +909,7 @@
   {
     "nombre": "Ajíes dulces en vinagre",
     "descripcion": "360gr",
-    "precio": "1250",
+    "precio": "1500",
     "empresa": "emolivos",
     "tipo": "Delicatessen",
     "imagen": "./img/emolivos/ajies_vinagre.jpg"
@@ -917,7 +917,7 @@
   {
     "nombre": "Pickles mixtos en vinagre",
     "descripcion": "400gr",
-    "precio": "1200",
+    "precio": "1440",
     "empresa": "emolivos",
     "tipo": "Delicatessen",
     "imagen": "./img/emolivos/pickles_mixtos.png"
@@ -1033,7 +1033,7 @@
   {
     "nombre": "Aceite de oliva VIRGEN EXTRA",
     "descripcion": "Env. Vidrio 250ml",
-    "precio": "1035",
+    "precio": "1300",
     "empresa": "emolivos",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/emolivos/aceite_oliva_vidrio_250.jpg"
@@ -1041,7 +1041,7 @@
   {
     "nombre": "Aceite de oliva VIRGEN EXTRA",
     "descripcion": "Env. Vidrio 500ml",
-    "precio": "1700",
+    "precio": "2120",
     "empresa": "emolivos",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/emolivos/aceite_oliva_vidrio_500.jpg"
@@ -1049,7 +1049,7 @@
   {
     "nombre": "Aceite de oliva VIRGEN EXTRA",
     "descripcion": "Env. Plástico 500ml",
-    "precio": "1500",
+    "precio": "1870",
     "empresa": "emolivos",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/emolivos/aceite_oliva_500.jpg"
@@ -1057,7 +1057,7 @@
   {
     "nombre": "Aceite de oliva VIRGEN EXTRA",
     "descripcion": "Env. Plástico 1L",
-    "precio": "2700",
+    "precio": "3350",
     "empresa": "emolivos",
     "tipo": "Condimentos Especiales",
     "imagen": "./img/emolivos/aceite_oliva_1l.jpg"
