@@ -40,7 +40,6 @@ function construirProducto(datos) {
                                 <div class="text">
                                     <p class="prod-nombre">${datos.nombre}</p>
                                     <p class = "prod-descripcion">${datos.descripcion}</p>
-                                    <p class="precio">$ ${datos.precio}</p>
                                 </div> 
                         </div>`
       } else if(!datos.nuevo){
